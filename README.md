@@ -12,3 +12,6 @@ pytorch, jupyter lab/notebook, ipywidgets, pandas/numpy, matplotlib
 - http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/
 - https://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm
 - https://rockt.github.io/2018/04/30/einsum
+
+#fun
+https://discuss.pytorch.org/t/torch-norm-3-6x-slower-than-manually-calculating-sum-of-squares/14684
