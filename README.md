@@ -1,6 +1,10 @@
-this is sketch for upcoming workshop on 3D reconstruction using neural networks
+### this is sketch for upcoming workshop on 3D reconstruction using neural networks
 
-important links
+#### Requirements
+
+pytorch, jupyter lab/notebook, ipywidgets, pandas/numpy, matplotlib
+
+#### important links
 
 - http://mathworld.wolfram.com/UnitVector.html
 - http://mathonline.wikidot.com/determining-a-vector-given-two-points
